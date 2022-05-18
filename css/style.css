@@ -550,6 +550,7 @@ footer{
 #contacto{
   
     font-size: 16;
+    color:white
 }
 #contacto_body *{
     font-family: "Raleway", Arial, sans-serif;
@@ -558,6 +559,44 @@ footer{
 #contacto_body a{
     color: green;
 }
+
+/****************************CITA**************************/
+
+
+#cita_body{
+   
+}
+  
+#cita_body label {
+    display: block;
+    font-family: 'Aleo';
+    padding-bottom: 4px;
+    font-size: 1.25em;
+  }
+  
+#cita_body input, select, textarea {
+    border-radius: 2px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 1.25em;
+    font-family: "Raleway", Arial, sans-serif;
+    width: 500px;
+    padding: 8px;
+  }
+  
+#cita_body textarea {
+    height: 250px;
+  }
+    
+#cita_body button:hover {
+    cursor: pointer;
+    background-color: #428bca;
+  }
+  
+  
+
+  
+/****************************RESPONSIVE*************************/  
 
 @media(max-width:768px){
     #menu{
