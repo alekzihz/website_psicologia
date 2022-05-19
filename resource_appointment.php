@@ -18,7 +18,7 @@
         
                 <div id="menu" class="menu">
                         <?php
-                                include_once __DIR__.'/../controller/controller_menu.php';
+                                include_once __DIR__.'/controller/controller_menu.php';
                         ?>
                 </div>
                
@@ -33,7 +33,7 @@
 </body>
 <footer id="Contacto">
                 <br>
-                <?php require_once __DIR__.'/../controller/controller_footer.php';?>   
+                <?php require_once __DIR__.'/controller/controller_footer.php';?>   
                 &copy;Derechos Reservados <img/>
                 · 
                 <a href="" target="_blank" rel="noopener">Aviso legal</a>
