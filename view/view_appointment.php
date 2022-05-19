@@ -1,6 +1,6 @@
 
   <div id="cita_body">
-    
+    <br><br><br><br><br><br>
     <center>
       <form action="index.php?action=enviando" method="post">
         <div class="elem-group">
@@ -25,8 +25,10 @@
           <textarea id="message" name="visitor_message" placeholder="Say whatever you want." required></textarea>
         </div>
         <br><br>
-        <button type="submit">Send Message</button>
+        <button type="submit">Enviar Cita</button>
+        
       </form>
+      <br>
     </center>
     
 </div>

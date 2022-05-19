@@ -17,6 +17,9 @@ $parametro = $_GET['action'] ?? null;
      case "enviando":
         require __DIR__. '/resource_appointment_enviar.php';
         break;
+     case "servicios":
+        require __DIR__. '/resource_offers.php';
+        break;
 
 
         default:
