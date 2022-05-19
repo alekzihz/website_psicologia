@@ -133,6 +133,7 @@ header{
     padding: 10px 20px;
 }
 #menu ul li:hover ul {
+    cursor: pointer;
 
     display: block;
     position: absolute;
@@ -341,6 +342,13 @@ figcaption2{
     background-color: #428bca;
 }
 
+/***************OFFERS**************/
+#btn_offer{
+   text-align: center;
+}
+#btn_offer button{
+    cursor: pointer;
+}
 /******************************SERVICES***************************************/
 .services_contenedor{
     padding-bottom: 5%;
@@ -459,6 +467,9 @@ figcaption{
     padding: 5px;
     color: black;
   
+}
+button{
+    cursor: pointer;
 }
 
 /**********************************text and button cover************************************************/
