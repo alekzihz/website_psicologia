@@ -1,5 +1,6 @@
 
         <div id="contacto_body">
+        <br>
                 <center>
                         <br><br><br><br><br><br><br><br>
                         <h4 style="margin-top: -10px">CONTACTO</h4>
@@ -14,7 +15,7 @@
                         <!-- Datos de contacto -->
                         <div class="datos">
                         <p style="font-size: 14px;">
-                        correo: <b style="color: green;"> <a href="mailto:xxxx.website@gmail.com"> xxx.website@gmail.com </a></b><br>
+                        correo: <b style="color: green;"> <a href="mdelm_92@gmail.com"> mdelm_92@gmail.com </a></b><br>
                         teléfono: <b style="color: green;"> <a href="tel:+34123456789"> +34 123456789 </a></b><br>
                         </p>
                         </div>
@@ -24,9 +25,10 @@
                 <address id="direccion" style="text-align: center;">
                         xxxx, 27<br>
                         12345, xxx xxx <br>
-                        Granada, España<br>
+                        Barcelona, España<br>
                         "xxxx xxxxxx".
                 </address>
+                <br><br><br><br>
         </div>
        
 
