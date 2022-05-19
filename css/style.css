@@ -333,6 +333,7 @@ figcaption2{
     top: 120%;
     position: absolute;
     background-color: #9e2da5;
+    font-size: 22px;
 
     
     
@@ -604,8 +605,15 @@ footer{
     background-color: #428bca;
   }
   
-  
+  /*****************YO**************************/
 
+#yo img{
+    width: 25%;
+    height: 15%;
+}
+#yo_info{
+    margin-bottom: 45%;
+}
   
 /****************************RESPONSIVE*************************/  
 

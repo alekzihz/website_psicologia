@@ -1,7 +1,7 @@
 <nav>
     <ul>
         <li><a href="index.php#inicio">Inicio</a></li>
-        <li><a href="index.php#Yo">Sobre Mí</a></li>
+        <li><a href="index.php?action=Yo">Sobre Mí</a></li>
         <li class="submenu"><a href="#servicios">Servicios</a>
             <ul>
                 <li><a href="index.php?action=servicios&id=1">Terapias</a></li>

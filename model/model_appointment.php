@@ -37,7 +37,7 @@
 			$recipient = "tech.support@domain.com";
 		}
 		else {
-			$recipient = "contact@domain.com";
+			$recipient = "d.alexis.g@hotmail.com";
 		}
 		 
 		$headers  = 'MIME-Version: 1.0' . "\r\n"

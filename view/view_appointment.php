@@ -15,9 +15,13 @@
           <label for="department-selection">Tipo de Cita</label>
           <select id="department-selection" name="concerned_department" required>
               <option value="">Seleccione una opcion</option>
+              <option value="Psicologia Para adultos">Psicologia Para adultos</option>
+              <option value="Psicologia para parejas">Psicologia para parejas</option>
+              <option value="Psicologia para niños y adolescentes">Psicologia para niños y adolescentes</option>
+              <option value="Coaching">Coaching</option>
+              <option value="Terapias antiestrés">Terapias antiestrés</option>
               <option value="Psicologia Online">Psicologia Online</option>
-              <option value="Presencial">Presencial</option>
-              <option value="Sugerencia">Sugerencia</option>
+              <option value="Otros">Otros</option>
           </select>
         </div>
         <div class="elem-group">

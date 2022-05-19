@@ -20,7 +20,9 @@ $parametro = $_GET['action'] ?? null;
      case "servicios":
         require __DIR__. '/resource_offers.php';
         break;
-
+     case "Yo":
+        require __DIR__. '/resource_aboutme.php';
+        break;
 
         default:
         require __DIR__.'/resource_main.php';
