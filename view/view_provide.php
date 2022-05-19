@@ -3,7 +3,7 @@
     <div class="text-img">Psicología para adultos</div>
     <figcaption id="one">
         <p>Lorem ipsum dolor sit amet. Eos veniam consequatur id quos nulla et reprehenderit illo ut dignissimos animi est natus molestias sit eius culpa. Est optio sunt ut omnis Quis vel aperiam consequatur aut sunt facilis. Rem esse rerum laboriosam odit ad temporibus commodi et magnam aliquam et voluptatem galisum et nesciunt </p>
-        <button>Saber más</button>
+        <a href="index.php?action=servicios&id=4"><button type="submit">Saber mas</button></a>
     </figcaption>
 </div>
 <div class="column">
@@ -11,7 +11,7 @@
     <div class="text-img">Psicología para parejas</div>
     <figcaption>
         <p>Lorem ipsum dolor sit amet. Eos veniam consequatur id quos nulla et reprehenderit illo ut dignissimos animi est natus molestias sit eius culpa. Est optio sunt ut omnis Quis vel aperiam consequatur aut sunt facilis. Rem esse rerum laboriosam odit ad temporibus commodi et magnam aliquam et voluptatem galisum et nesciunt </p>
-        <button>Saber más</button>
+        <a href="index.php?action=servicios&id=5"><button type="submit">Saber mas</button></a>
     </figcaption>
     
 
@@ -22,7 +22,7 @@
     <div class="text-img">Psicología para niños y adolescentes</div>
     <figcaption>
         <p>Lorem ipsum dolor sit amet. Eos veniam consequatur id quos nulla et reprehenderit illo ut dignissimos animi est natus molestias sit eius culpa. Est optio sunt ut omnis Quis vel aperiam consequatur aut sunt facilis. Rem esse rerum laboriosam odit ad temporibus commodi et magnam aliquam et voluptatem galisum et nesciunt </p>
-        <button>Saber más</button>
+        <a href="index.php?action=servicios&id=6"><button type="submit">Saber mas</button></a>
     </figcaption>
 </div>
 <div class="column">
@@ -30,7 +30,7 @@
     <div class="text-img">Coaching</div>
     <figcaption>
         <p>Lorem ipsum dolor sit amet. Eos veniam consequatur id quos nulla et reprehenderit illo ut dignissimos animi est natus molestias sit eius culpa. Est optio sunt ut omnis Quis vel aperiam consequatur aut sunt facilis. Rem esse rerum laboriosam odit ad temporibus commodi et magnam aliquam et voluptatem galisum et nesciunt </p>
-        <button>Saber más</button>
+        <a href="index.php?action=servicios&id=2"><button type="submit">Saber mas</button></a>
     </figcaption>
 
 </div>
@@ -39,7 +39,7 @@
     <div class="text-img">Terapias antiestrés</div>
     <figcaption>
         <p>Lorem ipsum dolor sit amet. Eos veniam consequatur id quos nulla et reprehenderit illo ut dignissimos animi est natus molestias sit eius culpa. Est optio sunt ut omnis Quis vel aperiam consequatur aut sunt facilis. Rem esse rerum laboriosam odit ad temporibus commodi et magnam aliquam et voluptatem galisum et nesciunt </p>
-        <button>Saber más</button>
+        <a href="index.php?action=servicios&id=8"><button type="submit">Saber mas</button></a>
     </figcaption>
 </div>
 <div class="column">
@@ -47,7 +47,8 @@
     <div class="text-img">Psicología Online</div>
     <figcaption>
         <p>Lorem ipsum dolor sit amet. Eos veniam consequatur id quos nulla et reprehenderit illo ut dignissimos animi est natus molestias sit eius culpa. Est optio sunt ut omnis Quis vel aperiam consequatur aut sunt facilis. Rem esse rerum laboriosam odit ad temporibus commodi et magnam aliquam et voluptatem galisum et nesciunt </p>
-        <button>Saber más</button>
+        <a href="index.php?action=servicios&id=9"><button type="submit">Saber mas</button></a>
+        
     </figcaption>
 
 </div>
