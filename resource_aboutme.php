@@ -10,7 +10,10 @@
 </head>
 <body> 
         <header class="header" id="Inicio">
-                <img src="img/menu.svg" alt="" class="btn_menu">
+                <?php
+                        include_once __DIR__.'/controller/controller_dropdownmenu.php'
+                ?>
+                
                 <div id="logo">
                         <a href="index.php"><img src="img/fondo.png">Psicóloga | María Lozano</a>
                 </div>  
