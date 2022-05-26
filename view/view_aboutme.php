@@ -29,7 +29,7 @@
             <p> xxxx xxxx xxxx xxxx xxxxxxx ..... </p>
                 </div>
     </div>
-    <img src="img/yo_grado.jpg" alt="">    
+    <img src="img/yo_grado.JPG" alt="">    
 </div>
 <br>
 <div id="yo" class="contenedor-servicio">
@@ -41,7 +41,7 @@
             <p> xxxx xxxx xxxx xxxx xxxxxxx ..... </p>
                 </div>
     </div>
-    <img src="img/yo_master.jpg" alt="">    
+    <img src="img/yo_master.JPG" alt="">    
 </div>
 <br>
 <div id="yo" class="contenedor-servicio">
@@ -53,6 +53,6 @@
             <p> xxxx xxxx xxxx xxxx xxxxxxx ..... </p>
                 </div>
     </div>
-    <img src="img/yo_doctorado.jpg" alt="">    
+    <img src="img/yo_doctorado.JPG" alt="">    
 </div>
 <br>
