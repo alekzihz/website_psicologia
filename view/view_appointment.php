@@ -21,6 +21,8 @@
               <option value="Coaching">Coaching</option>
               <option value="Terapias antiestrés">Terapias antiestrés</option>
               <option value="Psicologia Online">Psicologia Online</option>
+              <option value="Ayuda especializada">Ayuda Especializada</option>
+              <option value="Terapias">Terapias</option>
               <option value="Otros">Otros</option>
           </select>
         </div>
