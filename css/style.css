@@ -173,7 +173,7 @@ header{
 .contenido_menu{
     width: 100%;
     max-width: 200px;
-    background:  rgba(251, 194, 235,0.8);
+    background:  rgba(6, 6, 6, 0.8);
     height: 100vh;
     position: relative;
     transition: all 500ms ease;
@@ -391,21 +391,6 @@ figcaption2{
     padding: 5px;
     color: black;
   
-}
-.btnp{
-   
-    left:40%;
-    top: 120%;
-    position: absolute;
-    background-color: #9e2da5;
-    font-size: 22px;
-
-    
-    
-}
-.btnp:hover{
-    cursor: pointer;
-    background-color: #428bca;
 }
 
 /***************OFFERS**************/
@@ -639,10 +624,6 @@ footer{
 
 /****************************CITA**************************/
 
-
-#cita_body{
-   
-}
   
 #cita_body label {
     display: block;
@@ -670,6 +651,24 @@ footer{
     background-color: #428bca;
   }
   
+  .btnp{
+   
+    left:40%;
+    top: 120%;
+    position: absolute;
+    background-color: #9e2da5;
+    font-size: 22px;
+
+    
+    
+}
+.btnp:hover{
+    cursor: pointer;
+    background-color: #428bca;
+}
+#btn_offer button:hover{
+    background-color: #428bca;
+}
   /*****************YO**************************/
 
 #yo img{
