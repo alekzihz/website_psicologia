@@ -435,7 +435,7 @@ figcaption2{
 .service{
     margin-bottom: 20px;
 }
-.n-service{
+.n-service a{
     margin-bottom: 7px;
     color: #9f8ad0;
 }
@@ -739,19 +739,13 @@ footer{
     }
     
     .text-img{
-        position: absolute;
-        top: 50%;
+      
         font-size: 20px;
         text-transform: uppercase;
-        margin: auto;
-        padding: 0 1rem;
         box-shadow:0 0 6px rgba(0, 0, 0, 0.5);
         color: #ffffff;
         text-align: center;
-        left:15%;
-      
-    
-      
+        left:10%;
     }
     
     
