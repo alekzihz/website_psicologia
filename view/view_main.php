@@ -6,7 +6,7 @@
                 <?php require_once __DIR__.'/../controller/controller_services.php';?>
                 
             </div>
-            <hr>
+            
         </section>
         <section class="galeria" id="Portfolio">
             <br><br><br><br>
